@@ -1,0 +1,45 @@
+{
+  "cliente": [
+    {
+      "nombre": "Oscar",
+      "empresa": "Focus",
+      "email": "oscar@oscar.com",
+      "telefono": "33333",
+      "notas": "Ok",
+      "id": 1
+    },
+    {
+      "nombre": "Teresa",
+      "empresa": "La Roca Software",
+      "email": "tere@tere.com",
+      "telefono": "32424323",
+      "notas": "Esposa",
+      "id": 3
+    },
+    {
+      "nombre": "Prueba1",
+      "empresa": "Focus on Services SA",
+      "email": "tere@tere.com",
+      "telefono": "1312312312",
+      "notas": "Esta es una prueba \nde texto",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
